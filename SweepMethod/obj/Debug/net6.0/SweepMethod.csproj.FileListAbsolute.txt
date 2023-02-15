@@ -1,0 +1,15 @@
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/bin/Debug/net6.0/SweepMethod
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/bin/Debug/net6.0/SweepMethod.deps.json
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/bin/Debug/net6.0/SweepMethod.runtimeconfig.json
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/bin/Debug/net6.0/SweepMethod.dll
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/bin/Debug/net6.0/SweepMethod.pdb
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/obj/Debug/net6.0/SweepMethod.csproj.AssemblyReference.cache
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/obj/Debug/net6.0/SweepMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/obj/Debug/net6.0/SweepMethod.AssemblyInfoInputs.cache
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/obj/Debug/net6.0/SweepMethod.AssemblyInfo.cs
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/obj/Debug/net6.0/SweepMethod.csproj.CoreCompileInputs.cache
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/obj/Debug/net6.0/SweepMethod.dll
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/obj/Debug/net6.0/refint/SweepMethod.dll
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/obj/Debug/net6.0/SweepMethod.pdb
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/obj/Debug/net6.0/SweepMethod.genruntimeconfig.cache
+/Users/evgenijsemin/RiderProjects/SweepMethod/SweepMethod/obj/Debug/net6.0/ref/SweepMethod.dll
